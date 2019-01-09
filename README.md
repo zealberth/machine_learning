@@ -3,7 +3,7 @@ Implementations made for the Master's discipline. (Machine Learning)
 
 This is some implementations made for me to solve problems in my classes.
 Each folder has some scripts to calculate many problems from UCI Machine Learning repository.
-The datasets have preprocessed with 80%/20% and normalized min-max, with 30 sorted realizations.
+The datasets have preprocessed with 80/20 and min-max normalization, with 30 random realizations.
 Some models have another file used for find the best params using cross validation with k-folds.
 
 01 - kNN / k-Nearest Neighbors 
